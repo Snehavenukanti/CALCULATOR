@@ -1,0 +1,16 @@
+first=input()
+second=input()
+operator=input()
+first=int()
+second=int()
+if operator =="+":
+print(first+second)
+if operator=="-":
+print(first-second)
+if operator=="*":
+print(first*second)
+if operator =="%":
+print(first%dsecond)
+else:
+print("please enter valid input")
+calculator but not working
